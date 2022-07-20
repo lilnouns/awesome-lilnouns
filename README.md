@@ -43,6 +43,7 @@ Like Nouns, Lil Nouns are 32x32 pixel characters based on people, places, and th
 
 - [Discourse](http://discourse.lilnouns.wtf/) - Lil Nouns Discourse; you can dicuss around ideas and send formal proposal.
 - [Discord community](https://discord.gg/xjARUcB3tJ) - It's a community lead by Lil Nunders to discuss, guide regardig Lil Naunce DAO.
+- [Asset Library](https://www.figma.com/community/file/1117824291358512052) - Lil Nouns figma assets library include a tutorial.
 
 ## Contributing
 
