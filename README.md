@@ -52,6 +52,7 @@ Like Nouns, Lil Nouns are 32x32 pixel characters based on people, places, and th
 - [Lil Grants Season 2](https://www.notion.so/al409/Lil-Grants-Season-2-fdbb431147b9406fae1896f6bcc4d0d7) - Funded as part of Proposal 22 to support small, one-off, or alpha versions of projects/tooling.
 - [Lil Nouns Metrics](https://lilnounsmetrics.com) - Explore Lil Nouns on-chain metrics.
 - [Lil Bounty](https://www.notion.so/Lil-Bounty-13294a3e944a43868377a3efa8953971) - Bounties from Lil Nouns DAO. 
+- [Lil Nouns on OpenSea](https://opensea.io/collection/lil-nouns) - Lil Nounce collection over the OpenSea.
 
 ## Contributing
 
