@@ -30,9 +30,9 @@ Like Nouns, Lil Nouns are 32x32 pixel characters based on people, places, and th
 - [Delegating Votes](https://lilnouns.notion.site/Delegating-Votes-c5f9629d6e444f7398c60ad31fa633e2) - How to delegate votes to another Ethereum address.
 - [Prop House](https://lilnouns.notion.site/Prop-House-a86f08c9e31f411589f8c7aeaff83ee8) - Lil Nouns proposal auction house, aka prop house.
 - [Past proposals](https://lilnouns.wtf/vote) - List of past proposals and vote on active proposal.
+- [Tally](https://www.tally.xyz/governance/eip155:1:0x5d2C31ce16924C2a71D317e5BbFd5ce387854039) - Statstics regarding on-chain proposals, voters, and votes. 
 
 ## Development
-
 
 - [Noun Protocol](https://lilnouns.notion.site/Noun-Protocol-forked-with-amendments-to-contract-addresses-9cc199c4cfce49b983fe0889bae8e796) - Nouns is a protocol for proliferating Nouns.
 - [Lil Nouns Monorepo](https://github.com/lilnounsDAO/lilnouns-monorepo) - It's a monorepo contains api, assets, bots and other related packages.
