@@ -53,7 +53,7 @@ Like Nouns, Lil Nouns are 32x32 pixel characters based on people, places, and th
 - [Lil Nouns Metrics](https://lilnounsmetrics.com) - Explore Lil Nouns on-chain metrics.
 - [Lil Bounty](https://www.notion.so/Lil-Bounty-13294a3e944a43868377a3efa8953971) - Bounties from Lil Nouns DAO. 
 - [Lil Nouns on OpenSea](https://opensea.io/collection/lil-nouns) - Lil Nounce collection over the OpenSea.
-- [Lil Nouners] - The unofficial Lil Nouns Community page.
+- [Lil Nouners](https://lilnouners.wtf) - The unofficial Lil Nouns Community page.
 
 ## Contributing
 
