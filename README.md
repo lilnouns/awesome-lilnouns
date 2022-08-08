@@ -56,6 +56,7 @@ Like Nouns, Lil Nouns are 32x32 pixel characters based on people, places, and th
 - [Lil Nouns Trait Finder](https://lilnouns.traits.wtf) - See which lil nouns have already been born with each traits!
 - [Lil Nouns Center](https://www.lil-nouns.center) - Serves as the knowledge center & resource hub for Lil Nouns DAO.
 - [Lil Nouns Upvote](https://www.lilnounsvote.com) - Upvote your favorite lil nouns projects.
+- [Meet the Lil Nouners](https://podcast.lilnouners.wtf) - A weekly podcast about all things Lil Nounish with your host, Brook.
 
 ## Contributing
 
