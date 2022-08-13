@@ -58,6 +58,7 @@ Like Nouns, Lil Nouns are 32x32 pixel characters based on people, places, and th
 - [Lil Nouns Upvote](https://www.lilnounsvote.com) - Upvote your favorite lil nouns projects.
 - [Meet the Lil Nouners](https://podcast.lilnouners.wtf) - A weekly podcast about all things Lil Nounish with your host, Brook.
 - [Lil Noun Moods](https://github.com/lilnoun1112/lilnounmoods) - Some assets to be used to build with facial expressions for Lil Nouns.
+- [Terminal Dashboard](https://www.terminal.co/community/social/lilnouns.wtf) - Community-specific metrics, from growth, resource allocation, treasury movement and governance activity.
 
 ## Contributing
 
