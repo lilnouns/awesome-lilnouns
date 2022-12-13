@@ -55,7 +55,6 @@ Like Nouns, Lil Nouns are 32x32 pixel characters based on people, places, and th
 - [Lil Nouners](https://lilnouners.wtf) - The unofficial Lil Nouns Community page.
 - [Lil Nouns Trait Finder](https://lilnouns.traits.wtf) - See which lil nouns have already been born with each traits!
 - [Lil Nouns Center](https://www.lil-nouns.center) - Serves as the knowledge center & resource hub for Lil Nouns DAO.
-- [Meet the Lil Nouners](https://podcast.lilnouners.wtf) - A weekly podcast about all things Lil Nounish with your host, Brook.
 - [Lil Noun Moods](https://github.com/lilnoun1112/lilnounmoods) - Some assets to be used to build with facial expressions for Lil Nouns.
 - [Terminal Dashboard](https://www.terminal.co/community/social/lilnouns.wtf) - Community-specific metrics, from growth, resource allocation, treasury movement and governance activity.
 - [Lil Prop House](https://prop.house/lil-nouns) - A Lil Nouns DAO funded house for open rounds.
