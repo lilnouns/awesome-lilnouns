@@ -37,6 +37,7 @@ Like Nouns, Lil Nouns are 32x32 pixel characters based on people, places, and th
 - [Lil Nouns Monorepo](https://github.com/lilnounsDAO/lilnouns-monorepo) - It's a monorepo contains api, assets, bots and other related packages.
 - [Smart Contract](https://lilnouns.notion.site/Lil-Nouns-Smart-contract-architecture-a4cadc430d97409e99d17ce09720e4d0) - Lil Nouns Smart contract architecture.
 - [Generate Lil Nouns](https://lilnouns.notion.site/Generate-a-random-Lil-Noun-on-chain-6d5cc033a43d47a3abe661ce76a303f0) - How to generate a random Lil Noun on-chain.
+- [Lil Nouns Template](https://github.com/lilnouns/lilnouns-template) - An skeleton template for build Lil Nouns projects.
 
 ## Miscellaneous
 
