@@ -22,6 +22,7 @@ Like Nouns, Lil Nouns are 32x32 pixel characters based on people, places, and th
 - [Introduction](https://lilnouns.notion.site/A-Brief-Introduction-to-Lil-Nouns-54ea31f688734819954bfa13b88f7f7f) - A Brief Introduction to Lil Nouns.
 - [The Lil Nouns Layer](https://lilnouns.notion.site/The-Lil-Nouns-Layer-11425a8fcd0449acbe0bb068c6b9cf4c) - Lil Nouns is a protocol for exposing the world to all things Nounish.
 - [Frequently asked questions](https://lilnouns.notion.site/FAQs-0964541052304325880ee11c5beb34e6) - Frequently asked questions regardig auctions, governance, and funding projects.
+- [Lil Nouns Helpers](https://lilhelpers.wtf/) - A website to facilitates access to information and list of helpers.
 
 ## Governance
 
