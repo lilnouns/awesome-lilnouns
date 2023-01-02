@@ -30,6 +30,7 @@ Like Nouns, Lil Nouns are 32x32 pixel characters based on people, places, and th
 - [Prop House](https://lilnouns.notion.site/Prop-House-a86f08c9e31f411589f8c7aeaff83ee8) - Lil Nouns proposal auction house, aka prop house.
 - [Past proposals](https://lilnouns.wtf/vote) - List of past proposals and vote on active proposal.
 - [Tally](https://www.tally.xyz/governance/eip155:1:0x5d2C31ce16924C2a71D317e5BbFd5ce387854039) - Statstics regarding on-chain proposals, voters, and votes. 
+- [Lil Nouns Online](https://lilnouns.online/) - Live feed of what happens in the community
 
 ## Development
 
