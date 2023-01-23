@@ -22,6 +22,7 @@ Like Nouns, Lil Nouns are 32x32 pixel characters based on people, places, and th
 - [Introduction](https://lilnouns.notion.site/A-Brief-Introduction-to-Lil-Nouns-54ea31f688734819954bfa13b88f7f7f) - A Brief Introduction to Lil Nouns.
 - [The Lil Nouns Layer](https://lilnouns.notion.site/The-Lil-Nouns-Layer-11425a8fcd0449acbe0bb068c6b9cf4c) - Lil Nouns is a protocol for exposing the world to all things Nounish.
 - [Frequently asked questions](https://lilnouns.notion.site/FAQs-0964541052304325880ee11c5beb34e6) - Frequently asked questions regardig auctions, governance, and funding projects.
+- [Lil Nouns Helpers](https://lilhelpers.wtf/) - A website to facilitates access to information and list of helpers.
 
 ## Governance
 
@@ -39,6 +40,7 @@ Like Nouns, Lil Nouns are 32x32 pixel characters based on people, places, and th
 - [Smart Contract](https://lilnouns.notion.site/Lil-Nouns-Smart-contract-architecture-a4cadc430d97409e99d17ce09720e4d0) - Lil Nouns Smart contract architecture.
 - [Generate Lil Nouns](https://lilnouns.notion.site/Generate-a-random-Lil-Noun-on-chain-6d5cc033a43d47a3abe661ce76a303f0) - How to generate a random Lil Noun on-chain.
 - [Lil Nouns Template](https://github.com/lilnouns/lilnouns-template) - An skeleton template for build Lil Nouns projects.
+- [Lil Nouns Pics](https://lilnouns.pics/) - Select and download a Lil Nouns picture in varius sizes and formats.
 
 ## Miscellaneous
 
