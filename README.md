@@ -45,7 +45,6 @@ Like Nouns, Lil Nouns are 32x32 pixel characters based on people, places, and th
 - [Discourse](http://discourse.lilnouns.wtf/) - Lil Nouns Discourse; you can dicuss around ideas and send formal proposal.
 - [Discord community](https://discord.gg/xjARUcB3tJ) - It's a community lead by Lil Nunders to discuss, guide regardig Lil Naunce DAO.
 - [Asset Library](https://www.figma.com/community/file/1117824291358512052) - Lil Nouns figma assets library include a tutorial.
-- [Floor Finder](https://www.floorfinder.xyz/collection/lil-nouns/Head) - Find floor of Lil Nouns based on their heads.
 - [Zora Marketplace](https://zora.co/collections/0x4b10701Bfd7BFEdc47d50562b76b436fbB5BdB3B) - Lil Nouns collection over Zora marketplace.
 - [Nounish Market](https://www.nounish.market/collections/0x4b10701bfd7bfedc47d50562b76b436fbb5bdb3b) - Lil Nouns on Nounish market, with ability to filter by traits.
 - [Lil Nouns traits](https://www.figma.com/community/file/1107027798019162777) - All backgrounds, bodies, accessories, heads and glasses of Lil Nouns.
