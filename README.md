@@ -47,7 +47,6 @@ Like Nouns, Lil Nouns are 32x32 pixel characters based on people, places, and th
 - [Discourse](http://discourse.lilnouns.wtf/) - Lil Nouns Discourse; you can dicuss around ideas and send formal proposal.
 - [Discord community](https://discord.gg/xjARUcB3tJ) - It's a community lead by Lil Nunders to discuss, guide regardig Lil Naunce DAO.
 - [Asset Library](https://www.figma.com/community/file/1117824291358512052) - Lil Nouns figma assets library include a tutorial.
-- [Zora Marketplace](https://zora.co/collections/0x4b10701Bfd7BFEdc47d50562b76b436fbB5BdB3B) - Lil Nouns collection over Zora marketplace.
 - [Nounish Market](https://www.nounish.market/collections/0x4b10701bfd7bfedc47d50562b76b436fbb5bdb3b) - Lil Nouns on Nounish market, with ability to filter by traits.
 - [Lil Nouns traits](https://www.figma.com/community/file/1107027798019162777) - All backgrounds, bodies, accessories, heads and glasses of Lil Nouns.
 - [Lil Nouns Docs](https://www.notion.so/al409/All-Docs-de73e230e1654deebbeadef61ec30e0a) - A curated list of docs related to proposals and fundings.
@@ -57,7 +56,6 @@ Like Nouns, Lil Nouns are 32x32 pixel characters based on people, places, and th
 - [Lil Nouns Trait Finder](https://lilnouns.traits.wtf) - See which lil nouns have already been born with each traits!
 - [Lil Nouns Center](https://www.lil-nouns.center) - Serves as the knowledge center & resource hub for Lil Nouns DAO.
 - [Lil Noun Moods](https://github.com/lilnoun1112/lilnounmoods) - Some assets to be used to build with facial expressions for Lil Nouns.
-- [Terminal Dashboard](https://www.terminal.co/community/social/lilnouns.wtf) - Community-specific metrics, from growth, resource allocation, treasury movement and governance activity.
 - [Lil Prop House](https://prop.house/lil-nouns) - A Lil Nouns DAO funded house for open rounds.
 - [Lil' Block Party](https://lilblockparty.wtf) - Watch the blocks. Pick a lil. Join the party.
 - [Lil Funding](https://www.addressform.io/board/689ad3b5-7a88-4ad0-8ba0-4d57703d7636) - A pool of ETH reserved to provide builders with retro/ad-hoc funding.
