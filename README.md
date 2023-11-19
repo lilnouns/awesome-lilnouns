@@ -32,6 +32,7 @@ Like Nouns, Lil Nouns are 32x32 pixel characters based on people, places, and th
 - [Past proposals](https://lilnouns.wtf/vote) - List of past proposals and vote on active proposal.
 - [Tally](https://www.tally.xyz/governance/eip155:1:0x5d2C31ce16924C2a71D317e5BbFd5ce387854039) - Statstics regarding on-chain proposals, voters, and votes. 
 - [Lil Nouns Online](https://lilnouns.online/) - Live feed of what happens in the community.
+- [Lil Nouns Top Voters](https://lilnouns.top) - Comprehensive list of the most active participants and members of the DAO. 
 
 ## Development
 
@@ -50,7 +51,6 @@ Like Nouns, Lil Nouns are 32x32 pixel characters based on people, places, and th
 - [Nounish Market](https://www.nounish.market/collections/0x4b10701bfd7bfedc47d50562b76b436fbb5bdb3b) - Lil Nouns on Nounish market, with ability to filter by traits.
 - [Lil Nouns traits](https://www.figma.com/community/file/1107027798019162777) - All backgrounds, bodies, accessories, heads and glasses of Lil Nouns.
 - [Lil Nouns Docs](https://www.notion.so/al409/All-Docs-de73e230e1654deebbeadef61ec30e0a) - A curated list of docs related to proposals and fundings.
-- [Lil Nouns Metrics](https://lilnounsmetrics.com) - Explore Lil Nouns on-chain metrics.
 - [Lil Bounty](https://www.notion.so/Lil-Bounty-13294a3e944a43868377a3efa8953971) - Bounties from Lil Nouns DAO. 
 - [Lil Nouns on OpenSea](https://opensea.io/collection/lil-nouns) - Lil Nounce collection over the OpenSea.
 - [Lil Nouns Trait Finder](https://lilnouns.traits.wtf) - See which lil nouns have already been born with each traits!
@@ -59,7 +59,6 @@ Like Nouns, Lil Nouns are 32x32 pixel characters based on people, places, and th
 - [Lil Prop House](https://prop.house/lil-nouns) - A Lil Nouns DAO funded house for open rounds.
 - [Lil' Block Party](https://lilblockparty.wtf) - Watch the blocks. Pick a lil. Join the party.
 - [Lil Funding](https://www.addressform.io/board/689ad3b5-7a88-4ad0-8ba0-4d57703d7636) - A pool of ETH reserved to provide builders with retro/ad-hoc funding.
-- [Lil Nouns Bid](https://lilnouns.bid) - Simple interface to bit and see last auctions.
 
 ## Contributing
 
