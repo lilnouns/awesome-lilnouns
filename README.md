@@ -32,6 +32,7 @@ Like Nouns, Lil Nouns are 32x32 pixel characters based on people, places, and th
 - [Past proposals](https://lilnouns.wtf/vote) - List of past proposals and vote on active proposal.
 - [Tally](https://www.tally.xyz/governance/eip155:1:0x5d2C31ce16924C2a71D317e5BbFd5ce387854039) - Statstics regarding on-chain proposals, voters, and votes. 
 - [Lil Nouns Online](https://lilnouns.online/) - Live feed of what happens in the community.
+- [Lil Nouns Top Voters](https://lilnoun.top) -  
 
 ## Development
 
