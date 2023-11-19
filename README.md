@@ -50,7 +50,6 @@ Like Nouns, Lil Nouns are 32x32 pixel characters based on people, places, and th
 - [Nounish Market](https://www.nounish.market/collections/0x4b10701bfd7bfedc47d50562b76b436fbb5bdb3b) - Lil Nouns on Nounish market, with ability to filter by traits.
 - [Lil Nouns traits](https://www.figma.com/community/file/1107027798019162777) - All backgrounds, bodies, accessories, heads and glasses of Lil Nouns.
 - [Lil Nouns Docs](https://www.notion.so/al409/All-Docs-de73e230e1654deebbeadef61ec30e0a) - A curated list of docs related to proposals and fundings.
-- [Lil Nouns Metrics](https://lilnounsmetrics.com) - Explore Lil Nouns on-chain metrics.
 - [Lil Bounty](https://www.notion.so/Lil-Bounty-13294a3e944a43868377a3efa8953971) - Bounties from Lil Nouns DAO. 
 - [Lil Nouns on OpenSea](https://opensea.io/collection/lil-nouns) - Lil Nounce collection over the OpenSea.
 - [Lil Nouns Trait Finder](https://lilnouns.traits.wtf) - See which lil nouns have already been born with each traits!
