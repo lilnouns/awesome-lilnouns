@@ -22,7 +22,6 @@ Like Nouns, Lil Nouns are 32x32 pixel characters based on people, places, and th
 - [Introduction](https://lilnouns.notion.site/A-Brief-Introduction-to-Lil-Nouns-54ea31f688734819954bfa13b88f7f7f) - A Brief Introduction to Lil Nouns.
 - [The Lil Nouns Layer](https://lilnouns.notion.site/The-Lil-Nouns-Layer-11425a8fcd0449acbe0bb068c6b9cf4c) - Lil Nouns is a protocol for exposing the world to all things Nounish.
 - [Frequently asked questions](https://lilnouns.notion.site/FAQs-0964541052304325880ee11c5beb34e6) - Frequently asked questions regardig auctions, governance, and funding projects.
-- [Lil Nouns Helpers](https://lilhelpers.wtf/) - A website to facilitates access to information and list of helpers.
 
 ## Governance
 
@@ -54,7 +53,7 @@ Like Nouns, Lil Nouns are 32x32 pixel characters based on people, places, and th
 - [Lil Bounty](https://www.notion.so/Lil-Bounty-13294a3e944a43868377a3efa8953971) - Bounties from Lil Nouns DAO. 
 - [Lil Nouns on OpenSea](https://opensea.io/collection/lil-nouns) - Lil Nounce collection over the OpenSea.
 - [Lil Nouns Trait Finder](https://lilnouns.traits.wtf) - See which lil nouns have already been born with each traits!
-- [Lil Nouns Center](https://www.lil-nouns.center) - Serves as the knowledge center & resource hub for Lil Nouns DAO.
+- [Lil Nouns Center](https://lilnouns.center) - Serves as the knowledge center & resource hub for Lil Nouns DAO.
 - [Lil Noun Moods](https://github.com/lilnoun1112/lilnounmoods) - Some assets to be used to build with facial expressions for Lil Nouns.
 - [Lil Prop House](https://prop.house/lil-nouns) - A Lil Nouns DAO funded house for open rounds.
 - [Lil' Block Party](https://lilblockparty.wtf) - Watch the blocks. Pick a lil. Join the party.
