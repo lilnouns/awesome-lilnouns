@@ -10,20 +10,24 @@ jobs:
   awesome_bot:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3.5.2
+    
+    - uses: actions/checkout@v4.1.1
+    
     - uses: ruby/setup-ruby@v1.161.0
       with:
         ruby-version: '3.0'
         bundler-cache: true
+        
     - name: Install awesome_bot
       run: gem install awesome_bot
+      
     - name: Run awesome_bot
       run: awesome_bot README.md --allow-redirect --allow-dupe --set-timeout 60 --skip-save-results --allow 429
   
   awesome_lint:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3.5.2
+      - uses: actions/checkout@v4.1.1
         with:
           fetch-depth: 0
       - run: npx awesome-lint
