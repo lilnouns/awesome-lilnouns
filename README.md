@@ -58,6 +58,7 @@ Like Nouns, Lil Nouns are 32x32 pixel characters based on people, places, and th
 - [Lil Prop House](https://prop.house/lil-nouns) - A Lil Nouns DAO funded house for open rounds.
 - [Lil' Block Party](https://lilblockparty.wtf) - Watch the blocks. Pick a lil. Join the party.
 - [Lil Funding](https://www.addressform.io/board/689ad3b5-7a88-4ad0-8ba0-4d57703d7636) - A pool of ETH reserved to provide builders with retro/ad-hoc funding.
+- [Lil Proposals](https://lilproposals.notion.site/Lil-Proposals-5290faa7a14a444c8e8a96db0d41d2a9) - A place showcasing all the cool projects being built around Lil Nouns.
 
 ## Contributing
 
